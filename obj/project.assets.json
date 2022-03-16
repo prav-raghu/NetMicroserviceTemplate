@@ -1970,11 +1970,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Development\\gosling-systems\\NetMicroserviceTemplate\\NetMicroserviceTemplate.csproj",
+      "projectUniqueName": "C:\\Development\\gosling\\NetMicroserviceTemplate\\NetMicroserviceTemplate.csproj",
       "projectName": "NetMicroserviceTemplate",
-      "projectPath": "D:\\Development\\gosling-systems\\NetMicroserviceTemplate\\NetMicroserviceTemplate.csproj",
+      "projectPath": "C:\\Development\\gosling\\NetMicroserviceTemplate\\NetMicroserviceTemplate.csproj",
       "packagesPath": "C:\\Users\\pravi\\.nuget\\packages\\",
-      "outputPath": "D:\\Development\\gosling-systems\\NetMicroserviceTemplate\\obj\\",
+      "outputPath": "C:\\Development\\gosling\\NetMicroserviceTemplate\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

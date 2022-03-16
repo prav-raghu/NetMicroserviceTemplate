@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4i4pAAbcnPn+umdQlE9kuwSKmBKxZVSwIQqfslpKcqZKNkg5fFlmvvdyD1Fyj8ts1UkW/2JPza8qSd/SHEm0tw==",
+  "dgSpecHash": "I+bOGu/HefyqxTCv2mJzrwDIq20ODWZLKZAK4fYipgnFOuUMD1cZ1a6J0jJfjd30PhubRSU8r5axHbboQT4iYg==",
   "success": true,
-  "projectFilePath": "D:\\Development\\gosling-systems\\NetMicroserviceTemplate\\NetMicroserviceTemplate.csproj",
+  "projectFilePath": "C:\\Development\\gosling\\NetMicroserviceTemplate\\NetMicroserviceTemplate.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pravi\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\pravi\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
