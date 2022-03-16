@@ -8,8 +8,8 @@ builder.Services.AddSwaggerGen(options =>
     options.SwaggerDoc("v1", new OpenApiInfo
     {
         Version = "v1",
-        Title = "ToDo API",
-        Description = "An ASP.NET Core Web API for managing ToDo items",
+        Title = "NetMicroserviceTemplate",
+        Description = "An ASP.NET 6 Web API / Microservice Template",
         TermsOfService = new Uri("https://example.com/terms"),
         Contact = new OpenApiContact
         {
